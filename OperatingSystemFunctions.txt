@@ -1,0 +1,1 @@
+One aspect of an OS is device management. The device management displays all devices connected to the computer. It also controls programs that connect to ceratin devices.
