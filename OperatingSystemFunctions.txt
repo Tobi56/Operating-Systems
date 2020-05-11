@@ -1,1 +1,2 @@
 One aspect of an OS is device management. The device management displays all devices connected to the computer. It also controls programs that connect to ceratin devices.
+Another function is security. The OS keeps the user's data safe by using password protection. It keeps out people that shouldn't be on your computer.
